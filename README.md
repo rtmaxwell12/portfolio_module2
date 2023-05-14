@@ -9,5 +9,5 @@ Installation is not necessary. The app can be accessed via the deployed link lis
 ## Usage
 To use, click on the deployed link listed below. The landing page will look like the screenshot below:
 
-    !(Assets/images/screenshot.png)
+    ![screnshot of application](Assets/images/screenshot.png)
 
